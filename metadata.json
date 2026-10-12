@@ -1,0 +1,6 @@
+{
+  "name": "Seven Wonders - W3 Blog & Travel Explorer",
+  "description": "A comprehensive blogging platform exploring the New and Ancient Seven Wonders of the World with Supabase authentication, bookmarks, comments, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
